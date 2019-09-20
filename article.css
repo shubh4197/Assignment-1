@@ -1,0 +1,33 @@
+.ha1{
+    background-color: rgb(5, 5, 100);
+}
+
+img.haimg{
+    margin:20px;
+}
+
+img.ha2img{
+    height:350px;
+    width:100%;
+}
+
+.mar{
+    margin-left:85px;
+}
+
+img.ha3img{
+    float:left;
+    border-radius:50%;
+    height:90px;
+    width:90px;
+    padding:10px;
+}
+
+p.lol{
+    margin:30px;
+}
+
+span{
+    font-size:3.5em;
+    float:left;
+}
